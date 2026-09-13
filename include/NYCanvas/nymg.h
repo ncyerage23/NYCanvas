@@ -10,7 +10,7 @@
 #define NYFW_NYMG_H
 
 /* ----- INCLUDES ----- */
-#include "NYFW/canvas.h"
+#include "NYCanvas/canvas.h"
 
 
 /* ----- FUNCTIONS ----- */

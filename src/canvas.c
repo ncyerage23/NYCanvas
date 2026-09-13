@@ -15,7 +15,7 @@
 
 
 /* ----- INCLUDES ----- */
-#include "NYFW/canvas.h"
+#include "NYCanvas/canvas.h"
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>

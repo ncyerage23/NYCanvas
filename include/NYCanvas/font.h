@@ -11,7 +11,7 @@
 #define NYFW_FONT_H
 
 /* ----- INCLUDES ----- */
-#include "NYFW/canvas.h"
+#include "NYCanvas/canvas.h"
 #include <stdint.h>
 
 
